@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"id": 1, "title": "RitmStyle fully submersible", "price": "150"},
+        {"id": 2, "title": "RitmStyle membership", "price": "500"},
+        {"id": 3, "title": "RitmStyle for couples", "price": "400"},
+        {"id": 4, "title": "RitmStyle for pregnant", "price": "250"},
+        {"id": 5, "title": "RitmStyle with an amazing underwater photo shoot", "price": "650"}
+    ]
+}

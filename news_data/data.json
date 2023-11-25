@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "New session format",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        },
+        {
+            "id": 2,
+            "title": "RitmStyle for couples",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        },
+        {
+            "id": 3,
+            "title": "RitmStyle fully submersible",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        },
+        {
+            "id": 4,
+            "title": "RitmStyle for pregnant",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        },
+        {
+            "id": 5,
+            "title": "RitmStyle with an amazing underwater photo shoot",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        },
+        {
+            "id": 6,
+            "title": "RitmStyle standard",
+            "img": "https://dmitryvasilkov.github.io/RitmStyleApi/news_data/media/uns.png",
+            "date": "13.02.2022"
+        }
+    ]
+}
+
+
+

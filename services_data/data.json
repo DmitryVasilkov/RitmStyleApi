@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"id": 1, "title": "RitmStyle standard", "image": "https://dmitryvasilkov.github.io/RitmStyleApi/services_data/media/u.png"},
+        {"id": 2, "title": "RitmStyle for a couples", "image": "https://dmitryvasilkov.github.io/RitmStyleApi/services_data/media/u.png"},
+        {"id": 3, "title": "RitmStyle fully submersible", "image": "https://dmitryvasilkov.github.io/RitmStyleApi/services_data/media/u.png"},
+        {"id": 4, "title": "RitmStyle for pregnant", "image": "https://dmitryvasilkov.github.io/RitmStyleApi/services_data/media/u.png"},
+        {"id": 5, "title": "RitmStyle with an amazing underwater photo shoot", "image": "https://dmitryvasilkov.github.io/RitmStyleApi/services_data/media/u.png"}
+    ]
+}
